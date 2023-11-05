@@ -1,4 +1,4 @@
-<h1 align="center">Hi Everyone👋, I'm I'm Kiran Pawar</h1>
+<h1 align="center">Hi Everyone👋, I'm Kiran Pawar</h1>
 <div align="center"> <img src="https://raw.githubusercontent.com/imkiran13/imkiran13/main/bg.png"> </div>
 <h3 align="center">A passionate DevOps Engineer From India. I work in Corporate IT Sector</h3>
 
